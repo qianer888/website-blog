@@ -2,11 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 
-/* REDUX */
+/* react-redux */
 import { Provider } from 'react-redux';
 import store from './store';
 
-/* ANTD */
+/* antd */
 import { ConfigProvider } from 'antd';
 import zhCN from 'antd/locale/zh_CN';
 
